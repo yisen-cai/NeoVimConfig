@@ -1,0 +1,10 @@
+{
+  "python.jediEnabled": false,
+  "python.formatting.provider": "yapf",
+  "list.normalMappings": {
+    "<C-c>": "do:exit"
+  },
+  "list.insertMappings": {
+    "<C-c>": "do:exit"
+  }
+}
